@@ -20,3 +20,7 @@ Successfully recovered a deleted image containing hidden data.
 * Digital forensics recovery
 * File deletion vs actual data persistence
 
+
+## 📄 Project Document
+[Download Project PDF](Digital Forensics and Steganography Recovering Hidden Data from a JPG Image.pdf)
+
