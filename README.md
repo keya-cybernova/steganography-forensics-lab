@@ -22,5 +22,5 @@ Successfully recovered a deleted image containing hidden data.
 
 
 ## 📄 Project Document
-[Download Project PDF](Digital Forensics and Steganography Recovering Hidden Data from a JPG Image.pdf)
+[Download Project PDF](project.pdf)
 
