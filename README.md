@@ -64,29 +64,16 @@ Successfully recovered a deleted image containing hidden data, proving data pers
 The following screenshots demonstrate key stages of the forensic investigation:
 
 ### Lab Setup
-
-![Lab Setup](screenshots/01_lab_setup.png)
+![Lab Setup](01_lab_setup.png)
 
 ### Steganography (Hidden Data)
-
-![Steganography](screenshots/02_steganography_hidden_data.png)
+![Steganography](steganography.png)
 
 ### FTK Recovery Process
-
-![FTK Recovery](screenshots/03_ftk_recovery.png)
+![FTK Recovery](ftk-recovery.png)
 
 ### Final Recovered File
-
-![Final Output](screenshots/04_final_recovered_file.png)
-
----
-
-## 📄 Project Documentation
-
-Detailed step-by-step analysis is available in the project PDF.
-
----
-
+![Final Output](final-output.png)
 ## 🚀 Conclusion
 
 This project highlights how attackers can hide sensitive data using steganography and how forensic investigators can recover and analyze hidden or deleted data using specialized tools.
